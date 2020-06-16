@@ -13,9 +13,9 @@
                 <div class="pr-4"><strong>20k</strong> followers</div>
                 <div class="pr-4"><strong>200</strong> following</div>
             </div>
-            <div class="pt-4 font-weight-bold">freeCodeCamp.org</div>
-            <div>don´t stop me now, cuz i´m having a good time, having a good time...</div>
-            <div><a href="#">www.freecodecamp.org</a></div>        
+            <div class="pt-4 font-weight-bold">{{ $user->profile->title }}</div>
+            <div>{{ $user->profile->description }}</div>
+            <div><a href="#">{{ $user->profile->url }}</a></div>        
         </div>
     </div>
     <div class="row pt-5">
