@@ -13,6 +13,20 @@
                 <div class="pr-4"><strong>20k</strong> followers</div>
                 <div class="pr-4"><strong>200</strong> following</div>
             </div>
+            <div class="pt-4 font-weight-bold">freeCodeCamp.org</div>
+            <div>Mamma, uuuu, i don´t wanna die, if i´m not back again this time tomorrow carry on, carry on.. nothing really matters....</div>
+            <div><a href="#">www.freecodecamp.org</a></div>        
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-4">
+           <img src="https://instagram.faep11-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.107.924.924a/s640x640/101418871_149220720095600_2797518877581952974_n.jpg?_nc_ht=instagram.faep11-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=JuVmbSr46_AAX_byzQ3&oh=7b4a5406d44db6b74fe90f81ed4b1f04&oe=5F13B14A" class="w-100">
+        </div>
+        <div class="col-4">
+            <img src="https://instagram.faep11-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.107.924.924a/s640x640/101418871_149220720095600_2797518877581952974_n.jpg?_nc_ht=instagram.faep11-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=JuVmbSr46_AAX_byzQ3&oh=7b4a5406d44db6b74fe90f81ed4b1f04&oe=5F13B14A" class="w-100">
+        </div>
+        <div class="col-4">
+            <img src="https://instagram.faep11-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.107.924.924a/s640x640/101418871_149220720095600_2797518877581952974_n.jpg?_nc_ht=instagram.faep11-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=JuVmbSr46_AAX_byzQ3&oh=7b4a5406d44db6b74fe90f81ed4b1f04&oe=5F13B14A" class="w-100">
         </div>
     </div>
 </div>
