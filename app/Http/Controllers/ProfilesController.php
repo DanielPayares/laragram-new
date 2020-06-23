@@ -36,7 +36,7 @@ class ProfilesController extends Controller
         $image = Image::make(public_path("storage/{$imagePath}"))->fit(1000, 1000);
         $image->save();
         }
-        dd($data);
+        
         //update data
         auth()->user()->profile->update(array_merge(
             $data,
