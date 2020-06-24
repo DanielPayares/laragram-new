@@ -1,3 +1,3 @@
 Instagram clone.
 
-Project from FreeCodeCamp's course.
+Laravel/Vue
