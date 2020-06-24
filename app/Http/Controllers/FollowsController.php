@@ -7,8 +7,8 @@ use Illuminate\Http\Request;
 
 class FollowsController extends Controller
 {
-    public function __construct()
-    {
+
+    public function _construct() {
         $this->middleware('auth');
     }
 

@@ -9,6 +9,8 @@ use Intervention\Image\Facades\Image;
 class ProfilesController extends Controller
 {
     public function index(User $user) {
+        $follows = (auth()->user()) ? auth()->user()->following->contains($user->id) : false;
+
         return view('profiles.index', compact('user'));
     }
 
@@ -16,7 +18,7 @@ class ProfilesController extends Controller
     {
         $this->authorize('update', $user->profile);
 
-        return view('profiles.edit', compact('user'));
+        return view('profiles.edit', compact('user', 'follows'));
     }
 
     public function update(User $user)
